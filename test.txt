@@ -1,2 +1,3 @@
 hello nihao nitu
-a new branch
+a new branch name feature2
+
