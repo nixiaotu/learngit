@@ -1,7 +1,2 @@
 hello nihao nitu
-<<<<<<< HEAD
-a new branch name is feature1
-
-=======
-a new branch name is feature1
->>>>>>> feature1
+a new branch dev
